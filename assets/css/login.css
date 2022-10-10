@@ -36,12 +36,12 @@ body{
   padding: 0 30px;
 }
 
-.links{
+.login-box,.reg-box{
   display: flex;
   justify-content: flex-end;
 }
 
-.links{
+.login-box,.reg-box{
   font-size: 12px;
 }
 
